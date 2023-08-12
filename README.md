@@ -1,4 +1,4 @@
-Final Portfolio: Database Management Portfolio - Ecommerce Database App
+Database Project: - Ecommerce Database App
 
 http://165.1.74.58:19091
 
